@@ -1,0 +1,18 @@
+/* .btn-primary {
+    background-color:red;
+}
+ */
+
+.btn-primary {
+    background:#DC3545;
+    color: #fff;
+}
+
+.border{
+    border-bottom:solid 5px;
+}
+
+.hidden {
+    display: none;
+  }
+  
